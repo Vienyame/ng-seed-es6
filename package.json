@@ -1,0 +1,28 @@
+{
+  "name": "ng-seed-es6",
+  "version": "1.0.0",
+  "description": "An angular 1.5.x app starter with EcmaScript 2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vienyame/ng-seed-es6.git"
+  },
+  "keywords": [
+    "AngularJs",
+    "AngularJs 1.5.x",
+    "ES6",
+    "gulp"
+  ],
+  "author": "Vienyame EDORH-TOSSA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vienyame/ng-seed-es6/issues"
+  },
+  "homepage": "https://github.com/Vienyame/ng-seed-es6#readme",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

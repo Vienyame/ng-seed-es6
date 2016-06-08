@@ -1,0 +1,28 @@
+{
+  "name": "ng-seed-es6",
+  "homepage": "https://github.com/Vienyame/ng-seed-es6",
+  "version": "1.0.0",
+  "authors": [
+    "EDORH-TOSSA Vienyame <vienyame.edorh@gmail.com>"
+  ],
+  "description": "A starter project for AngularJS with ES6 and Babel",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "AngularJs",
+    "ES6",
+    "Babel",
+    "Gulp"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.6",
+    "angular-ui-router": "0.3.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.5.6"
+  }
+}
