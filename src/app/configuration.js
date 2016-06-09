@@ -1,2 +1,1 @@
-
-export default angular.module('ngseed.app.config', []);
+export default angular.module('ngseed.app', []);

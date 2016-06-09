@@ -1,7 +1,6 @@
-/**
- * Created by Serge on 08/06/2016.
- */
-import NGSEEDConfig from './configuration.js';
+'use strict';
+
+import NGSEEDConfig from './configuration';
 
 let Application = angular.module('ngseed.app', [
   'ui.router',

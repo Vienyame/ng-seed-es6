@@ -8,18 +8,14 @@
   "freeze": true,
   "funcscope": true,
   "futurehostile": true,
-  "predef": [
-    "angular",
-    "inject",
-    "protractor",
-    "browser",
-    "by",
-    "element",
-    "it",
-    "describe",
-    "beforeEach",
-    "afterEach"
-  ],
+  "globals": {
+    "document": true,
+    "WebSocket": true,
+    "angular": true,
+    "console": true,
+    "inject": false,
+    "module": false
+  },
   "immed": true,
   "indent": true,
   "iterator": false,

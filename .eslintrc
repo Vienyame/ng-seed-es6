@@ -10,10 +10,5 @@
   "ecmaFeatures": {
     "modules": true
   },
-  "rules": {},
-  "globals": {
-    "angular": true,
-    "module": true,
-    "inject": true
-  }
+  "rules": {}
 }
